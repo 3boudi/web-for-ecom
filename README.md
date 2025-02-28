@@ -12,13 +12,13 @@ It is developed using **Java, PHP, MySQL, and Laravel**.
 ## Screenshots
 
 ### Home Page
-![Index Page](images/index_page.png)
+![Index Page](images/index page.png)
 
 ### Create Product Page
-![Create Page](images/creat_page.png)
+![Create Page](images/creat page.png)
 
 ### Edit Product Page
-![Edit Page](images/edit_page.png)
+![Edit Page](images/edit page.png)
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
