@@ -21,8 +21,8 @@ It is developed using **Java, PHP, MySQL, and Laravel**.
 ![Edit Page](images/edit_page.png)
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Backend**: PHP (Laravel), Java  
+- **Frontend**: HTML, CSS, Js, Bootstrap  
+- **Backend**: PHP 
 - **Database**: MySQL  
 
 ## Setup Instructions
