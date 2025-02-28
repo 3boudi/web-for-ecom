@@ -18,7 +18,7 @@ It is developed using **Java, PHP, MySQL, and Laravel**.
 ![Create Page](https://github.com/3boudi/web-for-ecom/blob/main/images/creat%20page.png?raw=true)
 
 ### Edit Product Page
-![Edit Page](images/edit_page.png)
+![Edit Page](https://github.com/3boudi/web-for-ecom/blob/main/images/edit%20page.png?raw=true)
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, Js, Bootstrap  
