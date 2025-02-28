@@ -12,7 +12,7 @@ It is developed using **Java, PHP, MySQL, and Laravel**.
 ## Screenshots
 
 ### Home Page
-![Index Page](images/index_page.png)
+![Index Page](https://github.com/3boudi/web-for-ecom/blob/main/images/index%20page.png?raw=true)
 
 ### Create Product Page
 ![Create Page](https://github.com/3boudi/web-for-ecom/blob/main/images/creat%20page.png?raw=true)
